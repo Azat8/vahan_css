@@ -79,7 +79,6 @@ button {
     background-color: rgba(0, 0, 0, 0.75);
 }
 .container-box{
-    width: 1170px;
     margin: auto;
 }
 .title{
@@ -121,7 +120,7 @@ button {
     margin: auto;
 }
 .sections-1{
-    margin-left: 130px;
+    margin-left: 224px;
     margin-bottom: 100px;
 }
 .sections-2 {
@@ -226,7 +225,6 @@ button {
 }
 .box h3{
     text-transform: uppercase;
-    color: #222222;
 }
 .latest-txt p{
     font-size: 18px;
@@ -272,6 +270,7 @@ button {
  }
 .latest-content h3{
     margin: 0;
+    color: #222222;
 }
 .latest-content p{
     font-size: 16px;
@@ -284,7 +283,6 @@ button {
 }
 .latest-txt-2{
     position: relative;
-    color: #7cc576;
 }
 .latest-txt-2 h3{
     margin-bottom: 0;
@@ -309,4 +307,92 @@ button {
     margin-left: 15px;
     margin-top: 52px;
 }
+.latest-txt-2 h3{
+    color: #7cc576;
+}
+.culture{
+    width: 100%;
+    height: 559px;
+    background-color: #f9f9f9;
+}
+.title-culture p{
+    text-align: center;
+    font-size: 24px;
+    margin: 0;
+}
+.title-culture{
+    text-align: center;
+    padding-top: 85px;
+}
+.title-culture h2{
+    font-size: 40px;
+    margin: 0;
+}
+.ic-culture p{
+    color: #777777;
+}
+.title-culture p{
+    color: #777777;
+}
+.ic-culture{
+    display: inline-block;
+    margin-left: 224px;
+    margin-top: 82px;
+}
+.music{
+    width: 85px;
+    height: 85px;
+    border-radius: 50px;
+    border: 3px solid #777777;
+    display: inline-block;
+}.graphic{
+    width: 85px;
+    height: 85px;
+    border-radius: 50px;
+    border: 3px solid #777777;
+     display: inline-block;
+}.star{
+    width: 85px;
+    height: 85px;
+    border-radius: 50px;
+    border: 3px solid #777777;
+      display: inline-block;
+}
+.music-ic p{
+    margin: 0;
+}
 
+.music-ic h2{
+    margin: 0;
+}
+.paragraph-ic p{
+    margin: 0;
+}
+
+.paragraph-ic h2{
+    margin: 0;
+}
+.star-ic p{
+    margin: 0;
+}
+.star-ic h2{
+    margin: 0;
+}
+.graphic img{
+    margin: auto;
+    margin-top: 16px;
+}
+.star img{
+    margin: auto;
+    margin-top: 16px;
+}
+.music img{
+    margin: auto;
+    margin-top: 16px;
+}
+.border{
+    height: 2px;
+    width: 162px;
+    background-color: #777777;
+    margin: 0;
+}
